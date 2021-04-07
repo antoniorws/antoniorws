@@ -1,7 +1,7 @@
 ## Hi, there, I'm Antonio Serra! :wave: </br>
 :round_pushpin: From Brazil, living in Lisbon, Portugal</br>
-:computer: FullStack Developer </br>
-:books: Currently learning Node.js</br>
+:computer: Developer at Adentis </br>
+:books: Currently, I'm studying a little bit more JavaScript</br>
 
 ##
  <div>
