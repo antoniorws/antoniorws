@@ -1,4 +1,4 @@
-## Hi, there, I'm Antonio Wanderley! :wave: </br>
+## Hi, there, I'm Antonio Serra! :wave: </br>
 :round_pushpin: From Brazil, living in Lisbon, Portugal</br>
 :computer: FullStack Developer </br>
 :books: Currently learning Node.js</br>
