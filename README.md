@@ -12,7 +12,7 @@
 
 ## Languages and Tools
 
-<img src="https://img.shields.io/badge/Java-300000?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-4285F4?style=for-the-badge&logo=firebase&logoColor=white"> 
 <img src="https://img.shields.io/badge/Eclipse-0769AD?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
