@@ -13,7 +13,7 @@
 ## Languages and Tools
 
 <img height="35em" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> 
-<img height="35em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
 <img height="35em" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img height="35em" src="https://img.shields.io/badge/Eclipse-0769AD?style=for-the-badge&logo=eclipse&logoColor=white">
 <img height="35em" src="https://img.shields.io/badge/Oracle%20PL/SQL-00000F?style=for-the-badge&logo=oracle&logoColor=red"> 
