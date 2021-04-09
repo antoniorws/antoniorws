@@ -14,12 +14,9 @@
 
 <img height="80em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"> 
 <img height="80em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img height="80em" src="https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img height="80em" src="https://img.shields.io/badge/-0769AD?style=for-the-badge&logo=eclipse&logoColor=white">
 <img height="80em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"> 
 <img height="80em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
 <img height="80em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
-<img height="80em" src="https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 ## Let's talk
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:%20rodrigowserra@gmail.com) 
