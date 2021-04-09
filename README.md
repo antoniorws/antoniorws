@@ -12,14 +12,14 @@
 
 ## Languages and Tools
 
-<img height="35em" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> 
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
-<img height="35em" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img height="35em" src="https://img.shields.io/badge/Eclipse-0769AD?style=for-the-badge&logo=eclipse&logoColor=white">
-<img height="35em" src="https://img.shields.io/badge/Oracle%20PL/SQL-00000F?style=for-the-badge&logo=oracle&logoColor=red"> 
-<img height="35em" src="https://img.shields.io/badge/Firebase-4285F4?style=for-the-badge&logo=firebase&logoColor=yellow">
-<img height="35em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
-<img height="35em" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img height="80em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"> 
+<img height="80em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img height="80em" src="https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img height="80em" src="https://img.shields.io/badge/-0769AD?style=for-the-badge&logo=eclipse&logoColor=white">
+<img height="80em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"> 
+<img height="80em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
+<img height="80em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
+<img height="80em" src="https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 ## Let's talk
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:%20rodrigowserra@gmail.com) 
