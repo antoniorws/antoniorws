@@ -16,7 +16,9 @@
 <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"> 
 <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
 <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
-###
+
+##   
+
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniorws&layout=compact&langs_count=8&theme=gotham"/>
 
 ### Let's talk
