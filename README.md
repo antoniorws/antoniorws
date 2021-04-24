@@ -11,11 +11,11 @@
 
 ### Stack
 
-<img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"> 
-<img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"> 
-<img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
-<img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
+<img height="80em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"> 
+<img height="80em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img height="80em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"> 
+<img height="80em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
+<img height="80em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
 
 ##   
 
