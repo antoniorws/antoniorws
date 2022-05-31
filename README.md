@@ -1,6 +1,6 @@
 ## Hello World, I'm Antonio Serra! :wave: </br>
 :round_pushpin: From Brazil, living in Lisbon, Portugal</br>
-:computer: Developer at Adentis </br>
+:computer: Developer at China Systems </br>
 :books: Currently, I'm studying a little bit more JavaScript</br>
 
 ##
