@@ -1,5 +1,5 @@
 ## Hello World, I'm Antonio Serra! :wave: </br>
-:round_pushpin: From Brazil, living in Lisbon, Portugal</br>
+:round_pushpin: From Pernambuco, Brazil to Lisbon, Portugal</br>
 :computer: Developer at China Systems </br>
 
 ##
