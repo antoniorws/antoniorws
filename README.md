@@ -10,13 +10,13 @@
 
 
 ## Read my articles here 
-<div>
+
+ <a href= "https://dev.to/antoniorws" target="_blank">
  <p align="left">
-  <a href= "https://dev.to/antoniorws">
    <img src="https://skillicons.dev/icons?i=devto" /> 
-  <a/>
- <p/>
-</div>
+  <p/>
+ <a/>
+
 
 ## Skills
 <br/>
