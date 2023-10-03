@@ -4,10 +4,23 @@
 :computer: Developer at China Systems 
 </br>
 
+-----------------------
+
+### Building 
+**My web site**: https://github.com/antoniorws/antoniorwserra.com <br/>
+**Trilha Java**: https://github.com/antoniorws/basic-java
+
+### Learning 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+</p>
+
 ### Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,javascript,mysql,firebase,html,css,react" />
+    <img src="https://skillicons.dev/icons?i=git,java,javascript,mysql,firebase,html,css" />
   </a>
 </p>
 
