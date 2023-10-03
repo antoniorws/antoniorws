@@ -8,7 +8,7 @@
 
 ### Building 
 **My web site**: https://github.com/antoniorws/antoniorwserra.com <br/>
-**Trilha Java**: https://github.com/antoniorws/basic-java
+**Java Trail**: https://github.com/antoniorws/basic-java
 
 ### Learning 
 <p align="left">
