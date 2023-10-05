@@ -7,7 +7,6 @@
 -----------------------
 
 ### Building 
-**My web site**: https://github.com/antoniorws/antoniorwserra.com <br/>
 **Java Trail**: https://github.com/antoniorws/basic-java
 
 ### Learning 
