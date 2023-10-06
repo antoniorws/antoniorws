@@ -37,4 +37,3 @@
 - [Domine Java: O Poder dos Atributos Privados, Públicos e Protegidos! 🔒🌐🛡️](https://dev.to/antoniorws/desvendando-os-segredos-dos-atributos-em-java-privados-publicos-e-protegidos-5d1p)
 - [Desvendando o Mistério dos Generics em Java: Code com Flexibilidade Mágica! ✨🚀](https://dev.to/antoniorws/desvendando-o-misterio-dos-generics-em-java-code-com-flexibilidade-magica-3hmb)
 - [Desvendando o Mistério dos Tipos em Java: Primitivos vs. Não Primitivos 🚀](https://dev.to/antoniorws/desvendando-o-misterio-dos-tipos-em-java-primitivos-vs-nao-primitivos-5f75)
-- [Descubra o Segredo da Busca Binária em Java: A Caça ao Tesouro Eficiente! 📚🔍💎](https://dev.to/antoniorws/descubra-o-segredo-da-busca-binaria-em-java-a-caca-ao-tesouro-eficiente-29a2)
