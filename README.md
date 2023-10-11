@@ -37,6 +37,3 @@
 - [Agora você vai entender como o java funciona 🚀 ](https://dev.to/antoniorws/agora-voce-vai-entender-como-o-java-funciona-23pj)
 - [Explorando o Multitarefa com Threads em Java: Cozinhando Café e Preparando Ovos ☕🍳🧵](https://dev.to/antoniorws/explorando-o-multitarefa-com-threads-em-java-cozinhando-cafe-e-preparando-ovos-1ilm)
 - [Métodos em Java: A Magia por Trás da Programação Simplificada! ✨💻](https://dev.to/antoniorws/metodos-em-java-a-magia-por-tras-da-programacao-simplificada-292f)
-- [Os Superpoderes de 'static' e a Inquebrável Fortaleza 'final'🚀🛡️🔮](https://dev.to/antoniorws/os-superpoderes-de-static-e-a-inquebravel-fortaleza-final-4jci)
-- [Domine Java: O Poder dos Atributos Privados, Públicos e Protegidos! 🔒🌐🛡️](https://dev.to/antoniorws/desvendando-os-segredos-dos-atributos-em-java-privados-publicos-e-protegidos-5d1p)
-- [Desvendando o Mistério dos Generics em Java: Code com Flexibilidade Mágica! ✨🚀](https://dev.to/antoniorws/desvendando-o-misterio-dos-generics-em-java-code-com-flexibilidade-magica-3hmb)
