@@ -34,5 +34,5 @@
 - [Do Tédio até 5.000 Downloads: Minha Jornada na Programação para Dispositivos Móveis ](https://dev.to/antoniorws/do-tedio-ate-5000-downloads-minha-jornada-na-programacao-para-dispositivos-moveis-16hb)
 - [Como fazer um robô para publicar mensagens no seu grupo do teams 🚀 ](https://dev.to/antoniorws/como-fazer-um-robo-para-publicar-mensagens-no-seu-grupo-do-teams-1nd6) 
 - [Agora você vai entender como o java funciona 🚀 ](https://dev.to/antoniorws/agora-voce-vai-entender-como-o-java-funciona-23pj)
-- [Explorando o Multitarefa com Threads em Java: Cozinhando Café e Preparando Ovos ☕🍳🧵](https://dev.to/antoniorws/explorando-o-multitarefa-com-threads-em-java-cozinhando-cafe-e-preparando-ovos-1ilm)
+- [Explorando o Multitarefa com Threads em Java](https://dev.to/antoniorws/explorando-o-multitarefa-com-threads-em-java-cozinhando-cafe-e-preparando-ovos-1ilm)
 - [Métodos em Java: A Magia por Trás da Programação Simplificada! ✨💻](https://dev.to/antoniorws/metodos-em-java-a-magia-por-tras-da-programacao-simplificada-292f)
