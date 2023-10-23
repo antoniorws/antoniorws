@@ -6,9 +6,6 @@
 
 -----------------------
 
-### Building 
-**Java Trail**: https://github.com/antoniorws/basic-java-trail<br/>
-
 ### Learning 
 <p align="left">
   <a href="https://skillicons.dev">
