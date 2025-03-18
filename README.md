@@ -7,14 +7,14 @@
 ### Learning 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=next" />
   </a>
 </p>
 
 ### Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,javascript,mysql,firebase,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,java,mysql,firebase,react" />
   </a>
 </p>
 
