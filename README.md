@@ -1,4 +1,4 @@
-## Hello World, I'm Antonio Serra! :wave: 
+## Hello World, I'm Antonio Serra!
 :round_pushpin: From Pernambuco, Brazil to Lisbon, Portugal
 </br>
 :computer: Developer at China Systems 
