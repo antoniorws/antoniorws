@@ -14,7 +14,7 @@
 ### Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,mysql,firebase,react" />
+    <img src="https://skillicons.dev/icons?i=git,java,mysql,firebase,react,python" />
   </a>
 </p>
 
