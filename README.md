@@ -4,17 +4,10 @@
 :computer: Developer at China Systems 
 </br>
 
-### Learning 
+### Always Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next" />
-  </a>
-</p>
-
-### Skills
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,mysql,firebase,react,python" />
+    <img src="https://skillicons.dev/icons?i=git,java,mysql,firebase,react,python,next" />
   </a>
 </p>
 
